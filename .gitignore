@@ -1,0 +1,11 @@
+# Terraform-specific
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
+
+# Lambda artifact
+lambda.zip
+
+# OS junk
+.DS_Store
+Thumbs.db
