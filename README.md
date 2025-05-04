@@ -1,6 +1,8 @@
-### This README file gives the steps followed to complete the task. Apart from this, an additional documention is added to the repo to give more information on the poject.
+This README file gives the steps followed to complete the task. Apart from this, an additional documention is added to the repo to give more information on the poject.
 
-Setup & Installation
+API URL: https://s1atg1u0af.execute-api.eu-west-2.amazonaws.com (This is the created URL with the string)
+
+### Setup & Installation
 
 ### 1. Prerequisites
 
