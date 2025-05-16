@@ -41,6 +41,7 @@ Access the URL to get the string
 - Option 2: AWS CLI
 
   In the terminal give te command below by changing the 'New value here'
+
   aws ssm put-parameter \
   --name /html/dynamic_string \
   --type String \
